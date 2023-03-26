@@ -1,0 +1,83 @@
+@charset "utf-8";
+.box01 {
+    width: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    background-color: #FAFAFA;
+}
+header {
+    background-color: #586AB0;
+    color: #F1ECEC;
+    text-align: center;
+    border-radius: px;
+
+}
+
+
+header h2 div {
+    width: 620px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 55px;
+    background-image: url(harden.jpg);
+    background-size: cover;
+    background-position: 38% 20%;
+}
+
+
+
+nav {
+    text-align: center;
+    color: #BCBFDC;
+    background-color: #E070B6;
+    text-shadow: 0px 0px #200DEF;
+    text-decoration: none;
+}
+nav a:link {
+    text-decoration: none;
+    color: #000000;
+}
+nav a:hover {
+    color: #E11114;
+    text-decoration: underline;
+}
+main {
+    background-color: #586AB0;
+    text-align: center;
+}
+main article img {
+    padding-left: auto;
+    padding-right: auto;
+    border-radius: 76px;
+
+
+}
+main article ul {
+    text-decoration: none;
+    background-image: url(url);
+    background-color: #D38484;
+    width: 420px;
+    border-radius: 76px;
+    height: 150px;
+    margin-left: auto;
+    margin-top: 38px;
+    margin-right: auto;
+    margin-bottom: 38px;
+    line-height: 25px;
+    text-align: left;
+    min-height: 65px;
+    font-style: italic;
+    border-top-width: medium;
+    padding-top: auto;
+    padding-left: auto;
+}
+main article h3 {
+    background-color: #FBF8B5;
+    width: 196px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 19px;
+}
